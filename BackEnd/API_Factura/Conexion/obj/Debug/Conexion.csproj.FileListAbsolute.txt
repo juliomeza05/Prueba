@@ -1,0 +1,6 @@
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\bin\Debug\Conexion.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\bin\Debug\Conexion.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\obj\Debug\Conexion.csproj.CoreCompileInputs.cache
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\obj\Debug\Conexion.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\obj\Debug\Conexion.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Conexion\obj\Debug\Conexion.csprojAssemblyReference.cache

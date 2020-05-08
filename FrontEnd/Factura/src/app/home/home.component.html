@@ -1,0 +1,24 @@
+<a class="btn btn-primary btn-sm" routerLink="/productos">+ Nuevo Producto</a>
+<p>
+<table class="table">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">Código</th>
+        <th scope="col">Valor</th>
+        <th scope="col">Nombre</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let producto of productos">
+        <td >{{ producto.codigo}}</td>
+        <td >{{ producto.valor}}</td>
+        <td >{{ producto.nombre}}</td>
+        <td ><a class="btn btn-primary btn-sm" routerLink="/productos/{{ producto.codigo }}">Ver/Editar</a>
+             <a class="btn btn-primary btn-sm btn btn-danger" (click)="eliminarProducto(producto.codigo)">Eliminar</a></td>
+      </tr>
+   
+    </tbody>
+  </table>
+  
+  

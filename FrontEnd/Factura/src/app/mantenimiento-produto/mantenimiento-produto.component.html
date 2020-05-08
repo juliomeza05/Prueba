@@ -1,0 +1,14 @@
+<h2>Crear - Modificar Producto</h2>
+<div class="form-group">
+<label for="txtCodigo">Código</label>
+<input [(ngModel)]="producto.codigo" type="number" class="form-control" id="txtCodigo" disabled>
+</div>
+<div class="form-group">
+<label for="txtValor">Valor</label>
+<input [(ngModel)]="producto.valor"  type="text" class="form-control" id="txtValor">
+</div>
+<div class="form-group">
+<label for="txtNombre">Nombre</label>
+<input [(ngModel)]="producto.nombre" type="text" class="form-control" id="txtNombre">
+</div>  
+<button (click)="AccionProducto()" class="btn btn-primary btn-block">Guardar</button>

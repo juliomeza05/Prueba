@@ -1,0 +1,11 @@
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Model.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Model.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Conexion.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Entidades.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Conexion.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\bin\Debug\Entidades.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\obj\Debug\Model.csproj.CopyComplete
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\obj\Debug\Model.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Model\obj\Debug\Model.pdb

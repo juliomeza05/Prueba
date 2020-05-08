@@ -1,0 +1,5 @@
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Entidades\bin\Debug\Entidades.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Entidades\bin\Debug\Entidades.pdb
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Entidades\obj\Debug\Entidades.dll
+D:\Prueba_Zabud Technologies\BackEnd\API_Factura\Entidades\obj\Debug\Entidades.pdb
